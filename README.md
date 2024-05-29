@@ -1,6 +1,6 @@
 # LLM Prompt Recovery
 
-This repository contains the code and resources for the project titled "LLM Prompt Recovery," an ECE 5424 final project by Beenaa Motiram Salian. The project aims to develop methodologies for recovering the original prompts used in text rewriting tasks performed by large language models (LLMs).
+This repository contains the code and resources for the project titled "LLM Prompt Recovery," an ECE 5424 final project. The project aims to develop methodologies for recovering the original prompts used in text rewriting tasks performed by large language models (LLMs).
 
 ## Table of Contents
 
